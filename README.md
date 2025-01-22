@@ -1,0 +1,20 @@
+## user 12 S1PB32.41-10-17-3-4 f9362b release-keys
+- Manufacturer: motorola
+- Platform: kona
+- Codename: burton
+- Brand: motorola
+- Flavor: user
+- Release Version: 12
+- Kernel Version: 4.19.157
+- Id: S1PB32.41-10-17-3-4
+- Incremental: f9362b
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: motorola/burton_retail/burton:11/S1PB32.41-10-17-3-4/f9362b:user/release-keys
+- OTA version: 
+- Branch: user-12-S1PB32.41-10-17-3-4-f9362b-release-keys
+- Repo: motorola_burton_dump

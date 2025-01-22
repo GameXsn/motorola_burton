@@ -1,0 +1,6 @@
+on init
+    setprop ro.MAX_HIDDEN_APPS 60
+    setprop ro.config.use_freezer false
+
+on post-fs
+    setprop persist.sys.perf_fwk_enabled true
